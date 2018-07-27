@@ -10,7 +10,7 @@ class Post
   end
 
   def author_name
-    @@all.name 
+    @@all.name
   end
 
 end
